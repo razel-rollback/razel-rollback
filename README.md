@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Razel (Vibe Coder)
+# 👋 Hello, I'm Razel
 
 
 ## � About Me
@@ -16,18 +16,18 @@
 
 </div>
 
-## 🌱 Current Focus (Enhance)
+## 🌱 Current Focus
++ Frontend (HTML/CSS)
 + PHP & Laravel Development
-+ Frontend (HTML/CSS/JS)
 + Database & SQL
 + Problem Solving (LeetCode/HackerRank)
 
-## 🛠️ Skill Roadmap (IT Student)
+## 🛠️ Skill Roadmap
 
 ### 🟢 **Immediate Focus**
 | Area               | Learning                          | Goal                              |
 |--------------------|-----------------------------------|-----------------------------------|
-| Frontend Basics    | HTML, CSS, JavaScript            | Responsive,interactivw, UI/UX            |
+| Frontend Basics    | HTML, CSS                        | Responsive,interactivw, UI/UX            |
 | Backend            | PHP + Laravel                    | Create CRUD systems, Deatailed Backend            |
 | Database           | MySQL + Eloquent ORM             | Design normalized databases       |
 | Version Control    | Git & GitHub                     | Maintain clean project history    |
@@ -39,7 +39,7 @@
 - Advanced Laravel Concepts
 
 ## 💡 GitHub Stats
-<div align="center" >
+<div align="center" ga="10px" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razel-rollback&layout=compact)](https://github.com/razel-rollback)
 
