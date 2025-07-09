@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Razel's portfolio](https://img.shields.io/badge/-Razel_ME-1877F2?style=for-the-badge&logo=internetarchive&logoColor=white)](https://razel-rollback.github.io/razel-rollback.com/)
+[![Razel's portfolio](https://img.shields.io/badge/-portfolio-1877F2?style=for-the-badge&logo=internetarchive&logoColor=white)](https://razel-rollback.github.io/razel-rollback.com/)
 
 ✨ *anita max winn* ✨  
 [![Meme Profile](https://img.shields.io/badge/-Shrek_Yeager-9146FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shrek.yeager)
