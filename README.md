@@ -42,9 +42,10 @@
 ## 💡 GitHub Stats
 <div align="center" ga="10px" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razel-rollback&layout=compact)](https://github.com/razel-rollback)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razel-rollback&layout=compact&theme=nightowl)](https://github.com/razel-rollback)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=razel-rollback&show_icons=true&theme=radical)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=razel-rollback&show_icons=true&theme=nightowl)
 
 
 </div>
