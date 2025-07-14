@@ -1,37 +1,31 @@
-<header align="center" >
-  <h1 style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">
-    Hello World
-  </h1>
-  <h1 style="font-family: 'Courier New', Courier, monospace; font-weight: bold;">
-  I'm Razel-rollback
-  </h1>
-</header>
+<img width="1024" height="203" alt="github-header-image-2" src="https://github.com/user-attachments/assets/bcf9822c-9045-41d1-8a9a-2b6852bdf99a" />
 
 ---
 
 
-[Visit my portfolio here](https://razel-rollback.github.io/razel-rollback.com/) <!-- Replace with your actual link -->
+ ### **🌐 Links**  
+    
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://razel-rollback.github.io/razel-rollback.com/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+  <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)-->
+  
+<!-- This is a comment and won't appear in the [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)rendered README -->
+
+---
+### **🛠️ Tech Stack**  
+<div align="center" style="font-size: 60px; margin: 20px 0;">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel,java,python,github&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 💻 Tech Stack
-
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 💡 GitHub Stats
-
-<div align="center" style="display="flex">
+### **📊 GitHub Stats**  
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razel-rollback&layout=compact&theme=nightowl)](https://github.com/razel-rollback)
+
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=razel-rollback&show_icons=true&theme=nightowl)
 
@@ -39,11 +33,6 @@
 
 ---
 
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJibDFnNnY4MmcwMmRjNGw4NmxqazF5eDAxM3l0em44aWkxdGlhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ASd0Ukj0y3qMM/giphy.gif" alt="anime gif" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXR5eTcyampxMDBwYzU0eDMxbzJ1MWh0b2dnc2RjMTByZzZzeTQ3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wrFDUUCey0bdBUk/giphy.gif" alt="anime gif" width="400"/>
 </div>
-
----
-
-<p align="center">✨ Thank you for visiting ✨</p>
